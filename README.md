@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # drivent-back
+=======
+# drivent-back.
+>>>>>>> 045adda50bc703e9b886b87d838ff490498d95e5
 
 Back-end for Driven.t, an event management solution.
 
